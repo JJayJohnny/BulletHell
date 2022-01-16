@@ -13,29 +13,25 @@ C:\Users\jasba\Desktop\PociskPieklo\game.cpp(216,2): warning C4996: 'sprintf': T
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(219,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(221,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(223,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(225,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(335,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(337,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(339,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(341,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(343,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(345,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(347,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(349,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(439,89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(439,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(442,92): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(442,57): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(457,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(457,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(461,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(461,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(473,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(437,89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(437,55): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(440,92): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(440,57): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(455,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(455,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(459,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(459,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(471,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(505,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\jasba\Desktop\PociskPieklo\game.cpp(507,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(509,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(571,77): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(571,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-  main.cpp
-  player.cpp
-  Generowanie kodu...
-C:\Users\jasba\Desktop\PociskPieklo\game.cpp(270): warning C4715: "Game::GetInput”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(569,77): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(569,45): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\jasba\Desktop\PociskPieklo\game.cpp(268): warning C4715: "Game::GetInput”: niewszystkie ścieżki kodu zwracają wartość
   szablon2vs19.vcxproj -> C:\Users\jasba\Desktop\PociskPieklo\Debug\szablon2vs19.exe

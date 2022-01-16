@@ -220,8 +220,6 @@ void Game::DrawInterface()
 	DrawString(10, screen->h - 20, text);
 	sprintf(text, "PLAYER X: %f Y: %f", player.x, player.y);
 	DrawString(50, 50, text);
-	sprintf(text, "BulletCount: %i", enemy.bulletCount);
-	DrawString(50, 70, text);
 	sprintf(text, "Points: %i, Multiplier: %i", player.score, player.multiplier);
 	DrawString(50, 90, text);
 
